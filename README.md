@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Osmonaliev S.</h1>
+<h1 color= "red"align="center">Hi 👋, I'm Osmonaliev S.</h1>
 <h3 align="center">A Junior Front-End-Developer from Germany!</h3>
 
 - 🌱 I’m currently learning **Back-End-Engineering (Java)**
